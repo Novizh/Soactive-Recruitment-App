@@ -1,0 +1,20 @@
+{
+  "name": "Soactive-Recruitment-App",
+  "version": "1.0.0",
+  "description": "Oh, you can't get my credit card, capitalist.\r I don't use one.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novizh/Soactive-Recruitment-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novizh/Soactive-Recruitment-App/issues"
+  },
+  "homepage": "https://github.com/Novizh/Soactive-Recruitment-App#readme"
+}
