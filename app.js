@@ -1,14 +1,12 @@
 const express = require('express');
 const fileUpload = require('express-fileupload');
 const bodyParser = require('body-parser');
-const mysql = require('mysql');
 const path = require('path');
 const http = require('http');
 const app = express();
 
 
 const {getHomePage} = require('./routes/index');
-const {addPlayerPage, addPlayer, deletePlayer, editPlayer, editPlayerPage} = require('./routes/player');
 const port = process.env.PORT || 5000;
 const server = http.createServer(app);
 
